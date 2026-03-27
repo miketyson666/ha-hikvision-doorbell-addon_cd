@@ -1,5 +1,5 @@
 name: Hikvision Doorbell
-description: Two-way audio for Hikvision doorbells with WebRTC
+description: Two-way audio for Hikvision doorbells with WebRTC Custom
 version: "1.0.1"
 slug: hikvision-doorbell
 url: https://github.com/miketyson/ha-hikvision-doorbell-addon_cd
